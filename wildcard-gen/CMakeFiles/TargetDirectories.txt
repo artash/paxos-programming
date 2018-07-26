@@ -1,0 +1,4 @@
+/Users/aaghajanyan/dev/github.com/artash/paxos-programming/wildcard-gen/CMakeFiles/rebuild_cache.dir
+/Users/aaghajanyan/dev/github.com/artash/paxos-programming/wildcard-gen/CMakeFiles/edit_cache.dir
+/Users/aaghajanyan/dev/github.com/artash/paxos-programming/wildcard-gen/CMakeFiles/wildcard-test.dir
+/Users/aaghajanyan/dev/github.com/artash/paxos-programming/wildcard-gen/CMakeFiles/wildcard.dir
